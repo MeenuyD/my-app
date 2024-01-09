@@ -1,0 +1,1 @@
+export { BoldCross } from "./BoldCross";

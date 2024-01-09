@@ -1,0 +1,1 @@
+export { TypeUp } from "./TypeUp";

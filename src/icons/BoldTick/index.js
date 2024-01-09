@@ -1,0 +1,1 @@
+export { BoldTick } from "./BoldTick";

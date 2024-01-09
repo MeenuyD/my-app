@@ -1,0 +1,1 @@
+export { BoldChevronUp } from "./BoldChevronUp";

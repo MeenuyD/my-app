@@ -1,0 +1,1 @@
+export { OutlinedWhatsapp } from "./OutlinedWhatsapp";

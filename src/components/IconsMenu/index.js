@@ -1,0 +1,1 @@
+export { IconsMenu } from "./IconsMenu";
